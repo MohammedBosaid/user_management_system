@@ -17,6 +17,10 @@ A complete web application built with HTML, CSS, JavaScript, PHP, and MySQL that
 - **Database**: MySQL 8.0
 - **Web Server**: Apache 2.4
 
+
+![Screenshot from the website](Test.jpg)
+
+
 ```
 
 ## Database Schema
